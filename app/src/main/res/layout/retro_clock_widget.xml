@@ -1,22 +1,25 @@
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@android:drawable/screen_background_dark_transparent"
-    android:padding="@dimen/widget_margin">
+    android:padding="@dimen/widget_margin"
+    android:id="@+id/retro_clock_widget_layout"
+    android:orientation="vertical"
+    android:gravity="center">
 
     <TextView
         android:id="@+id/digital_clock_text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
-        android:background="@android:drawable/screen_background_dark_transparent"
-        android:contentDescription="@string/appwidget_text"
-        android:textColor="#ffffff"
+        android:gravity="center"
+        android:hint="@string/shows_current_time"
+        android:textAlignment="center"
+        android:textColor="@android:color/holo_orange_dark"
         android:textSize="24sp"
-        android:textStyle="bold|italic" />
-
-</RelativeLayout>
+        android:fontFamily="@font/audiowide"
+        android:font="@font/audiowide"/>
+</LinearLayout>

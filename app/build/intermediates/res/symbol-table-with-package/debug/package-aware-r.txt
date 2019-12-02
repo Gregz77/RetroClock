@@ -11,6 +11,10 @@ anim abc_slide_out_bottom
 anim abc_slide_out_top
 anim abc_tooltip_enter
 anim abc_tooltip_exit
+array com_google_android_gms_fonts_certs
+array com_google_android_gms_fonts_certs_dev
+array com_google_android_gms_fonts_certs_prod
+array preloaded_fonts
 attr actionBarDivider
 attr actionBarItemBackground
 attr actionBarPopupTheme
@@ -629,7 +633,6 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
-drawable example_appwidget_preview
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable notification_action_background
@@ -644,8 +647,10 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable retro_clock_preview
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+font audiowide
 id ALT
 id CTRL
 id FUNCTION
@@ -696,6 +701,7 @@ id custom
 id customPanel
 id decor_content_parent
 id default_activity_button
+id digitalClock
 id digital_clock_text
 id dimensions
 id direct
@@ -741,6 +747,7 @@ id percent
 id progress_circular
 id progress_horizontal
 id radio
+id retro_clock_widget_layout
 id right
 id right_icon
 id right_side
@@ -883,8 +890,8 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string add_widget
 string app_name
-string appwidget_text
 string search_menu_title
+string shows_current_time
 string status_bar_notification_info_overflow
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light

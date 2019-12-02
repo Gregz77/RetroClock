@@ -184,10 +184,6 @@
         "source": "C:\\Users\\Gregz\\.gradle\\caches\\transforms-2\\files-2.1\\853e86070d3be1044e072def7b653d24\\appcompat-1.0.2\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Gregz\\AndroidStudioProjects\\RetroClock2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_example_appwidget_preview.png.flat",
-        "source": "C:\\Users\\Gregz\\AndroidStudioProjects\\RetroClock2\\app\\src\\main\\res\\drawable-nodpi\\example_appwidget_preview.png"
-    },
-    {
         "merged": "C:\\Users\\Gregz\\AndroidStudioProjects\\RetroClock2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Gregz\\.gradle\\caches\\transforms-2\\files-2.1\\853e86070d3be1044e072def7b653d24\\appcompat-1.0.2\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
@@ -330,6 +326,10 @@
     {
         "merged": "C:\\Users\\Gregz\\AndroidStudioProjects\\RetroClock2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Gregz\\.gradle\\caches\\transforms-2\\files-2.1\\853e86070d3be1044e072def7b653d24\\appcompat-1.0.2\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Gregz\\AndroidStudioProjects\\RetroClock2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_retro_clock_preview.png.flat",
+        "source": "C:\\Users\\Gregz\\AndroidStudioProjects\\RetroClock2\\app\\src\\main\\res\\drawable\\retro_clock_preview.png"
     },
     {
         "merged": "C:\\Users\\Gregz\\AndroidStudioProjects\\RetroClock2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
@@ -1258,6 +1258,10 @@
     {
         "merged": "C:\\Users\\Gregz\\AndroidStudioProjects\\RetroClock2\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
         "source": "C:\\Users\\Gregz\\.gradle\\caches\\transforms-2\\files-2.1\\853e86070d3be1044e072def7b653d24\\appcompat-1.0.2\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Gregz\\AndroidStudioProjects\\RetroClock2\\app\\build\\intermediates\\res\\merged\\debug\\font_audiowide.ttf.flat",
+        "source": "C:\\Users\\Gregz\\AndroidStudioProjects\\RetroClock2\\app\\src\\main\\res\\font\\audiowide.ttf"
     },
     {
         "merged": "C:\\Users\\Gregz\\AndroidStudioProjects\\RetroClock2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
