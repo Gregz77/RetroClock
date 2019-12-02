@@ -1,11 +1,11 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/retro_clock_widget_layout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:drawable/screen_background_dark_transparent"
-    android:padding="@dimen/widget_margin"
-    android:id="@+id/retro_clock_widget_layout"
+    android:background="@android:drawable/screen_background_light_transparent"
+    android:gravity="center"
     android:orientation="vertical"
-    android:gravity="center">
+    android:padding="@dimen/widget_margin">
 
     <TextView
         android:id="@+id/digital_clock_text"
@@ -15,11 +15,11 @@
         android:layout_marginTop="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginBottom="8dp"
+        android:font="@font/audiowide"
+        android:fontFamily="@font/audiowide"
         android:gravity="center"
         android:hint="@string/shows_current_time"
         android:textAlignment="center"
         android:textColor="@android:color/holo_orange_dark"
-        android:textSize="24sp"
-        android:fontFamily="@font/audiowide"
-        android:font="@font/audiowide"/>
+        android:textSize="24sp" />
 </LinearLayout>
