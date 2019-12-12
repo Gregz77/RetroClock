@@ -2,4 +2,8 @@
     <string name="app_name">RetroClock</string>
     <string name="add_widget">Add widget</string>
     <string name="shows_current_time">shows current time</string>
+    <string name="set_background">Set background</string>
+    <string name="save">Save</string>
+    <string name="set_background_config">Set Background</string>
+    <string name="current_time_config">Current time</string>
 </resources>

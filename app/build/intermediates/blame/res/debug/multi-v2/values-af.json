@@ -4,7 +4,7 @@
             "outputFile": "C:\\Users\\Gregz\\AndroidStudioProjects\\RetroClock2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-af\\values-af.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Gregz\\.gradle\\caches\\transforms-2\\files-2.1\\59634bf3360427ef7f7373ad7fa95cb2\\core-1.0.2\\res\\values-af\\values-af.xml",
+                    "source": "C:\\Users\\Gregz\\.gradle\\caches\\transforms-2\\files-2.1\\c7e28cf33a8972d116e817b742b7a10c\\core-1.0.2\\res\\values-af\\values-af.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Gregz\\.gradle\\caches\\transforms-2\\files-2.1\\853e86070d3be1044e072def7b653d24\\appcompat-1.0.2\\res\\values-af\\values-af.xml",
+                    "source": "C:\\Users\\Gregz\\.gradle\\caches\\transforms-2\\files-2.1\\966705fa1586529d1007328cb45c977f\\appcompat-1.0.2\\res\\values-af\\values-af.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

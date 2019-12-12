@@ -676,6 +676,7 @@ id action_mode_close_button
 id action_text
 id actions
 id activity_chooser_view_content
+id activity_retro_clock_widget_config
 id add
 id alertTitle
 id all
@@ -703,6 +704,7 @@ id decor_content_parent
 id default_activity_button
 id digitalClock
 id digital_clock_text
+id digital_clock_text_config
 id dimensions
 id direct
 id disableHome
@@ -781,6 +783,7 @@ id standard
 id start
 id submenuarrow
 id submit_area
+id switch1
 id tabMode
 id tag_transition_group
 id tag_unhandled_key_event_manager
@@ -789,6 +792,10 @@ id text
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
+id textView
+id textView2
+id textView3
+id textView4
 id textview
 id time
 id title
@@ -836,6 +843,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_retro_clock_widget_config
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -890,7 +898,11 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string add_widget
 string app_name
+string current_time_config
+string save
 string search_menu_title
+string set_background
+string set_background_config
 string shows_current_time
 string status_bar_notification_info_overflow
 style AlertDialog_AppCompat
